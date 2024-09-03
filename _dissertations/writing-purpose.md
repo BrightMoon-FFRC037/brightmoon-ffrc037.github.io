@@ -4,7 +4,6 @@ excerpt: "These words is a brief introduction to the column<br/>"
 collection: dissertations
 ---
 
-# Introduction
 ## Peculiarities
 
 The name of this repository is called "Dissertations", not for a university degree but on particular subjects.
