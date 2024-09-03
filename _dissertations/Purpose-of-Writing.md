@@ -2,7 +2,6 @@
 title: "Purpose of Writing"
 excerpt: "These words is a brief introduction to the column<br/><img src='_dissertations\Figures\tree.jpg'>"
 collection: dissertations
-permalink: /dissertations/writing-purpose
 ---
 
 # Introduction

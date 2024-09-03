@@ -218,6 +218,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  dissertations:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -265,6 +268,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _dissertations
+  - scope:
+      path: ""
+      type: dissertations
     values:
       layout: single
       author_profile: true
