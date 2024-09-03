@@ -21,8 +21,8 @@ category: Interdisciplinary Field
 
 |Quantity|Dimension|
 |-|-|
-|Force, F|\(\frac{LM}{T^2}\)|
-|Energy, E|\(\frac{L^2M}{T^2}\)|
+|Force, F|\\(\frac{LM}{T^2}\\)|
+|Energy, E|\\(\frac{L^2M}{T^2}\\)|
 |Charge, Q|\\(TI\\)|
 |Voltage, U|\\(\frac{TL^2M}{I}\\)|
 |Resistance, R|\\(\frac{TL^2M}{I^2}\\)|
