@@ -2,7 +2,7 @@
 title: "Enlightening Stories in the Cell"
 excerpt: ""
 collection: dissertations
-category: Biology
+category: biology
 ---
 
 # Introduction
