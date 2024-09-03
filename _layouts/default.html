@@ -8,19 +8,7 @@ layout: compress
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
-    {% include head/custom.html %}
-    <script>
-      MathJax.Hub.Config({
-        tex2jax: {
-          inlineMath: [['$', '$'], ['\\(', '\\)']],
-          displayMath: [['$$', '$$'], ['\\[', '\\]']],
-          processEscapes: true
-        },
-        TeX: {
-          extensions: ["AMSmath.js", "AMSsymbols.js"]
-        }
-      });
-    </script>    
+    {% include head/custom.html %}   
   </head>
 
   <body>

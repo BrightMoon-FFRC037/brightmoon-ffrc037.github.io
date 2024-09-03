@@ -23,10 +23,10 @@ That is the reason why I set up the file to record such thoughts and stories.
 * Engergy, which is like Olimpic Flame relayed by athletes, is stored at 5' end of each nuleoside. **(Root of the asymmetry)**
 * If there is a mistake, self-correction will be carried out by exonulease subunit or protein domain of DNA Polymerase, which leads to the error nuleoside to by cleaved off the strand.
 * 
-    * 5'$\rightarrow$ 3': the energy is carried by new members (next one). Each for itself, from the aspect of energy.
-    * 3'$\rightarrow$ 5': the energy is carried by old members (last one). Each for the next and each relies on the last, from the aspect of energy.
-* The necessity of energy (triphosphte in 5' end) entails the old one carring energy cannot be cut off the strand in the case of 3'$\rightarrow$ 5', otherwise the replication will terminate here.
-* The 5'$\rightarrow$ 3' mode allows removing any nuleoside added earlier without worrying about energy, since each nuleoside carries energy for itself.
+    * 5'\\(\rightarrow\\) 3': the energy is carried by new members (next one). Each for itself, from the aspect of energy.
+    * 3'\\(\rightarrow\\) 5': the energy is carried by old members (last one). Each for the next and each relies on the last, from the aspect of energy.
+* The necessity of energy (triphosphte in 5' end) entails the old one carring energy cannot be cut off the strand in the case of 3'\\(\rightarrow\\) 5', otherwise the replication will terminate here.
+* The 5'\\(\rightarrow\\) 3' mode allows removing any nuleoside added earlier without worrying about energy, since each nuleoside carries energy for itself.
 ## Inspiration
 * Both algorithm work in normal case, but one of them has severe disadvantage considering mistakes and correction.
 * The independency allows for more convenient correction, which increases accuracy.
@@ -41,8 +41,8 @@ That is the reason why I set up the file to record such thoughts and stories.
 # Why Each Region of the DNA is Replicated Once and Only Once ?
 ## Logic
 * Replication Initiation is **separated into two sequential steps** in eukaryotes.
-    * Loading of Helicase. In $G_1$ phase when kinase activity is low.
-    * Activating of Helicase. In $S$ phase when kinase activity is high.
+    * Loading of Helicase. In \\(G_1\\) phase when kinase activity is low.
+    * Activating of Helicase. In \\(S\\) phase when kinase activity is high.
 
 * The kinase activity changes from low to high chronologically.
 
