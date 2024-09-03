@@ -1,6 +1,6 @@
 ---
 title: "Purpose of Writing"
-excerpt: "These words is a brief introduction to the column<br/><img scr={{"../images/for_dissertations/tree.jpg>" | relative_url}}"
+excerpt: "These words is a brief introduction to the column<br/>"
 collection: dissertations
 ---
 
