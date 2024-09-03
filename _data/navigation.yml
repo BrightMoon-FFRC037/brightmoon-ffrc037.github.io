@@ -5,26 +5,35 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+# - title: "Publications"
+#   url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+# - title: "Talks"
+#   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+# - title: "Teaching"
+#   url: /teaching/    
+    
+  - title: "Experiments"
+    url: /experiments/
     
   - title: "Dissertations"
     url: /dissertations/
+  
+  - title: "Toolkit for Scientific Research"
+    url: /toolkit/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Literature and Notes"
+    url: /literature/
+
+# - title: "Portfolio"
+#   url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+# - title: "CV"
+#   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+# - title: "Guide"
+#   url: /markdown/

@@ -14,7 +14,7 @@ name                     : &name "BrightMoon"
 description              : &description "personal description"
 url                      : https://brightmoon-ffrc037.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -74,13 +74,6 @@ author:
   zhihu            : # URL
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
 
 dissertations_category:
   preface:
@@ -89,6 +82,26 @@ dissertations_category:
     title: 'Biology'
   interdisciplinary_field:
     title: 'Interdisciplinary Field'
+
+experiments_category:
+  preface:
+    title: 'Preface'
+
+toolkit_category:
+  preface:
+    title: 'Preface'
+
+literature_category:
+  preface:
+    title: 'Preface'
+
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -217,26 +230,76 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  experiments:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+
   dissertations:
     output: true
     permalink: /:collection/:path/
 
-  talks:
+  toolkit:
+    output: true
+    permalink: /:collection/:path/  
+
+  literature:
     output: true
     permalink: /:collection/:path/
+    
+
+
+# teaching:
+#   output: true
+#   permalink: /:collection/:path/
+# publications:
+#   output: true
+#   permalink: /:collection/:path/
+# portfolio:
+#   output: true
+#   permalink: /:collection/:path/
+# talks:
+#   output: true
+#   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _experiments
+  - scope:
+      path: ""
+      type: experiments
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _dissertations
+  - scope:
+      path: ""
+      type: dissertations
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _toolkit
+  - scope:
+      path: ""
+      type: toolkit
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _literature
+  - scope:
+      path: ""
+      type: literature
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _posts
   - scope:
       path: ""
@@ -282,15 +345,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _dissertations
-  - scope:
-      path: ""
-      type: dissertations
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
@@ -311,7 +365,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: China/Beijng # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
