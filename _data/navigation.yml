@@ -16,11 +16,6 @@ main:
     
   - title: "Dissertations"
     url: /dissertations/
-   - sublinks:
-     title: "Biology"
-     url: /dissertations/biology
-     title: "Interdisciplinary Field"
-     url: /dissertations/interdisciplinary-field
 
   - title: "Portfolio"
     url: /portfolio/

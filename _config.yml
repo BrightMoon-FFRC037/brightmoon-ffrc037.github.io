@@ -221,9 +221,7 @@ collections:
   dissertations:
     output: true
     permalink: /:collection/:path/
-#   subcollections:
-#     - biology
-#     - interdisciplinary-field
+
   talks:
     output: true
     permalink: /:collection/:path/
