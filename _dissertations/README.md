@@ -1,6 +1,6 @@
 ---
 title: "Purpose of Writing"
-excerpt: "These words is a brief introduction to the column<br/>"
+excerpt: "These words is a brief introduction to the column<br/><img scr='/_dissertations/Figures/tree.jpg>'"
 collection: dissertations
 ---
 
