@@ -83,6 +83,8 @@ publication_category:
     title: 'Conference Papers'
 
 dissertations_category:
+  preface:
+    title: 'Preface'
   biology:
     title: 'Biology'
   interdisciplinary_field:

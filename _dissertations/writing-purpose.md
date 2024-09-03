@@ -2,6 +2,7 @@
 title: "Purpose of Writing"
 excerpt: "These words is a brief introduction to the column<br/>"
 collection: dissertations
+category: preface
 ---
 
 ## Peculiarities
