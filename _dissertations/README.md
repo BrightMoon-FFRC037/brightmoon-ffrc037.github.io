@@ -1,6 +1,6 @@
 ---
 title: "Purpose of Writing"
-excerpt: "These words is a brief introduction to the column<br/><img scr={{'/_dissertations/Figures/tree.jpg>' | relative_url}}"
+excerpt: "These words is a brief introduction to the column<br/><img scr={{"../images/for_dissertations/tree.jpg>" | relative_url}}"
 collection: dissertations
 ---
 
@@ -15,9 +15,9 @@ While most textbooks are making concerted effort to build an organized logical s
 Without the constraint of covering all facets, I can focus on one topic and organize imformation accordingly including theories, history, practical use and even my own thoughts and feelings.
 
 Hence the articles here are topic oriented,just like a target.
-![target]({{"./Figures/target.jpg" | relative_url}})
+![target]({{"../images/for_dissertations/target.jpg" | relative_url}})
 Instead of a tree which most textbooks resemble, since they develop from a starting point to a complicated theory.
-![tree]({{"./Figures/tree.jpg" | relative_url}})
+![tree]({{"../images/for_dissertations/tree.jpg" | relative_url}})
 
 ### Difference in Scope (Compared with Papers)
 While most puplished papers nowadays are focusing on frontiers of science and technology, the classical branches of a discipline are still worth exploring at least for me.
