@@ -94,6 +94,13 @@ toolkit_category:
 literature_category:
   preface:
     title: 'Preface'
+  books:
+    title: 'Books'
+  papers:
+    title: 'Papers'
+  notes: 
+    title: 'Notes'
+
 
 publication_category:
   books:
