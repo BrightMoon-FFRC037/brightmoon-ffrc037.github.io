@@ -2,7 +2,7 @@
 title: "Dimensional Analysis"
 excerpt: ""
 collection: dissertations
-category: interdisciplinary-field
+category: Interdisciplinary Field
 ---
 
 # Base Quantities
