@@ -66,6 +66,7 @@ category: notes
 
 ## 2.Protein and its Function
 ### DNA Replication
+
 |Protein|Function|
 |-|-|
 |DNA polymerase|1.free deoxyribonuleoside triphosphates \\(\rightarrow\\) DNA<br>2.proof reading|
@@ -85,22 +86,26 @@ category: notes
 |ORC|origin recognition complex|
 
 ### DNA Transcription
+
 |Protein|Function|
 |-|-|
 |RNA polymerase|1.unwinding DNA helix<br>2.free ribonuleoside triphosphates \\(\rightarrow\\) RNA|
 
 ### Homologous Recombination (HR)
+
 |Protein|Function|
 |-|-|
 |RecA|*E. coli* Homologous recombination<br>searching and strand exchange|
 |Rad51|eukaryotes Homologous recombination<br>searching and strand exchange|
 
 ### Mitocondrion
+
 |Protein|Function|
 |-|-|
 |ATP synthase|ADP \\(\rightarrow\\) ATP|
 
 ## 3.RNA
+
 |Acronym|denotation|
 |-|-|
 |mRNA|messenger RNA|
@@ -117,26 +122,31 @@ category: notes
 
 
 ## 4.Position of the DNA
+
 |Position|Function|
 |-|-|
 |replication origins|first be opened|
 
 
 ## 5.Complex
+
 * The DNA Replication Fork
 
 ## 6.Disease
+
 |Cause|Disease|
 |-|-|
 |deficient mismatch proofreading|a type of colon cancer: HNPCC|
 
 ## 7.Techniques
+
 |Technoques|Applications|
 |-|-|
 |autoradiography|eukaryotic chromosome replication:<br>rate and direction|
 |Atomic Force Microscope<br>AFM|get 3D contour map of the surface<br>resolueion:<br>0.1 nm in the vertical dimension<br>0.5~1.0 nm in the lateral dimension|
 
 ## 8.Models
+
 * Lac repressor
     * \\(\text{strength of repression} = f(\text{distance between two binding sites})\\)
 
