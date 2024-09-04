@@ -1,14 +1,7 @@
----
-title: "Book List"
-collection: literature
-category: books
----
-
 # Intrduction 
 I have encountered numerous books in various dsciplines. Some of them have been read through, while some of them have not. I want to set up this file to keep track on my reading behaviour.
 
 # List
-
 ## Methodology
 ## Mathematics
 ### Analysis
@@ -40,7 +33,7 @@ of the Cell*, Garland Science, 2013.
 ## Computer Science
 ### Artificial Intelligence
 * Jon Krohn, Grant Beyleveld, Aglae Bassens, *Deep Learning Illustrated: a Visual, Interactive Guide to Artificial Intelligence*, Addison-Wesley, 2020.
-### Highly Interdisciplinary Fields
+## Highly Interdisciplinary Fields
 
 
 

@@ -8,7 +8,7 @@ category:
 
 '''
 #modify relative path for different files to process
-path = r'markdown_generator\markdown_converter\Notes For Biology.md'
+path = r''
 
 
 with open(path, 'r') as file:
