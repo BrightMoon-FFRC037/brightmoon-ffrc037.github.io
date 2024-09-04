@@ -7,6 +7,7 @@ category: notes
 
 ## 1.Order of Magnitudes
 ### Speed
+
 |Process|Speed|
 |-------|-----|
 |DNA Replication|bacteria: 1000 nuleotides/second<br>eukaryotes: 50 nuleotides/second|
@@ -14,6 +15,7 @@ category: notes
 |Dividing of *E.coli*|once/30 minutes|
 
 ### Length
+
 |Strip|Length|
 |-|-|
 |Leading Strand|\\(\infty\\)|
@@ -28,6 +30,7 @@ category: notes
 
 
 ### Rate
+
 |Process|Rate|
 |-|-|
 |DNA Replication|error rate: \\(\frac{1}{10^{10}}\\)|
@@ -40,6 +43,7 @@ category: notes
 
 
 ### Ratio
+
 |Subatances|Ratio|
 |-|-|
 |ATP : dATP|500 : 1|
@@ -47,6 +51,7 @@ category: notes
 
 
 ### Number
+
 |Object|Number|
 |-|-|
 |replication origin|bacteria: 1<br>eukaryote: 30,000~50,000|
@@ -55,6 +60,7 @@ category: notes
 |types of mRNA in each cell|10~15|
 
 ### Duration
+
 |Process|Duration|
 |-|-|
 |DNA Synthesis phase<br>S phase|mammalian cell: 8 hours<br>yeast: 40 minutes|
