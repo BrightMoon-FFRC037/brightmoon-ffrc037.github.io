@@ -1,0 +1,16 @@
+name: Workflow Triggered by literature-repo
+
+on:
+  repository_dispatch:
+    types: [repo_a_updated]
+
+jobs:
+  run-some-tasks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        
+      - name: Run some task
+        run: echo "Literature Repository has been updated. Running tasks in Website Repository."
+
