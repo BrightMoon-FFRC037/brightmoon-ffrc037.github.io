@@ -1,4 +1,4 @@
-name: Workflow Triggered by literature-repo
+name: Workflow Triggered by Repository A
 
 on:
   repository_dispatch:
@@ -12,5 +12,4 @@ jobs:
         uses: actions/checkout@v2
         
       - name: Run some task
-        run: echo "Literature Repository has been updated. Running tasks in Website Repository."
-
+        run: echo "Repository A has been updated. Running tasks in Repository B."
