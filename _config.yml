@@ -86,6 +86,8 @@ dissertations_category:
 experiments_category:
   preface:
     title: 'Preface'
+  reports:
+    title: 'Reports'
 
 toolkit_category:
   preface:
