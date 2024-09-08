@@ -88,6 +88,8 @@ experiments_category:
     title: 'Preface'
   reports:
     title: 'Reports'
+  skills:
+    title: 'Skills'
 
 toolkit_category:
   preface:
