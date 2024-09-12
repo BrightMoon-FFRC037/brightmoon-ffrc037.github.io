@@ -80,6 +80,8 @@ dissertations_category:
     title: 'Preface'
   biology:
     title: 'Biology'
+  mathematics:
+    title: 'Mathematics'
   interdisciplinary_field:
     title: 'Interdisciplinary Field'
 
