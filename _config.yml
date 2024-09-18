@@ -82,6 +82,8 @@ dissertations_category:
     title: 'Biology'
   mathematics:
     title: 'Mathematics'
+  physics:
+    title: 'Physics'
   interdisciplinary_field:
     title: 'Interdisciplinary Field'
 
