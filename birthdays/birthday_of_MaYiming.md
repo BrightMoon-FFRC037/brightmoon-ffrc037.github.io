@@ -6,15 +6,15 @@ permalink: /happyma/
 
 # 🎉 Happy Birthday Ma! 🎉
 
-**Happy times, let’s raise the bar,**  
-**All the fun, you’re the best by far!**  
-**Pizza, cake, and lots of cheer,**  
-**Party vibes, let’s bring them here!**  
-**Yay for you, it’s time to play!**  
+**H**appy times, let’s raise the bar,
+**A**ll the fun, you’re the best by far! 
+**P**izza, cake, and lots of cheer,
+**P**arty vibes, let’s bring them here!
+**Y**ay for you, it’s time to play!
 
 
-**Make a wish, it’s your special day!**  
-**Amazing moments, let’s shout hooray!**
+**M**ake a wish, it’s your special day!
+**A**mazing moments, let’s shout hooray!
 
 ---
 
