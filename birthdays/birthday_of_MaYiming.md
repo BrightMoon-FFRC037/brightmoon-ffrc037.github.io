@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Happy Ma"
 date: 2024-10-17
-categories: [celebration]
 permalink: /HappyMa
 ---
 
